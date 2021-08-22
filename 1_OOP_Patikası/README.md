@@ -10,4 +10,4 @@ Bu sistem için belirtilen isterler:
 - Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
 - Her çalışan bir ofiste çalışır.
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Uni Yonetim UML](https://github.com/ramisyk/PatikaDev/blob/master/1_OOP_Patikas%C4%B1/Ekler/universite_yonetim_uml.png)
