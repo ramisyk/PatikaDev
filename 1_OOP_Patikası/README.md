@@ -12,7 +12,7 @@ Bu sistem için belirtilen isterler:
 
 ![Uni Yonetim UML](https://github.com/ramisyk/PatikaDev/blob/master/1_OOP_Patikas%C4%B1/Ekler/universite_yonetim_uml.png)
 
-##Ödev2 - Hayvanat Bahçesi
+## Ödev2 - Hayvanat Bahçesi
 
 OOP ilkelerini kullanarak hazırlanan Hayvanat bahçesinin UML görseldeki, isterleri ve açıklamaları aşağıdakiler gibidir.
 
@@ -29,4 +29,4 @@ Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı ola
 
 Nitelik ve methodları ortak olan türler için base bir "Hayvan" sınıfı oluşturulmuştur ve ortak olan bütün bilgiler bu sınıfta tanımlanmıştır. Method içerikleri değişiklik gösterileceği için aynı metodlar override yapılabilecek şekilde kendi türlerine ait sınıflarda yeniden yazılmıştır, içeriği uygun olarak doldurulacaktır. 
 
-![Hayvanat Bahçesi UML](https://github.com/ramisyk/PatikaDev/blob/master/1_OOP_Patikas%C4%B1/Ekler/universite_yonetim_uml.png)
+![Hayvanat Bahçesi UML](https://github.com/ramisyk/PatikaDev/blob/master/1_OOP_Patikas%C4%B1/Ekler/hayvanat_bahcesi_uml.png)
