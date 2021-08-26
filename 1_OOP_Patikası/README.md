@@ -47,3 +47,15 @@ OOP ilkelerini kullanarak hazırlanan Uçuş Yönetiminin UML'i görseldeki, ist
 Soyutlamayı ve kalıtımları tam olarak yapabilmek için base sınıflar ve onun alt sınıfları oluşturulmuştur. Havayolu şirketi Pilot, Uçak ve Uçuş bilgilerini tutmaktadır o sınıfları altında barındırmaktadır. Havaalanı Uçuşları kontrol etmelidir.
 
 ![Ucus Yonetim Sistemi](https://github.com/ramisyk/PatikaDev/blob/master/1_OOP_Patikas%C4%B1/Ekler/havayolu_yonetim_uml.png)
+
+## Ödev4 - Online Film Sistemi
+
+OOP ilkelerini kullanarak hazırlanan film satın almaya ve kiralamaya imkan sunan Online Film Sisteminin UML'i görseldeki, isterleri ve açıklamaları aşağıdakiler gibidir.
+
+- Uygulamada filmler listelenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir.
+- Kullanıcılar abonelik için sistem üzerinden kredi satın alır.
+- Sadece abone olan kullanıcılar, kredileri ile film kiralayabilir ve kiraladığı filmin kredi bedeli kadar hesabından düşülür.
+- Normal kullanıcılar ve aboneler film satın alabilirler.
+- Eğer film mevcut değil ise talep edilebilir.
+
+![Online Film Sistemi](https://github.com/ramisyk/PatikaDev/blob/master/1_OOP_Patikas%C4%B1/Ekler/film-kiralama-uml.png)
